@@ -1,0 +1,19 @@
+{
+  "name": "node-test-app",
+  "version": "0.0.1",
+  "description": "A node test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nibir Bora",
+  "license": "ISC",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-route": "^3.2.0"
+  }
+}
